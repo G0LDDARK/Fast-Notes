@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "Fast Notes",
+    "description": "Prise de note rapide dans le navigateur",
+    "version": "1.0",
+    "permissions": [
+    "http://*/*",
+    "https://*/*",
+      "tabs",
+      "notifications"
+    ],
+    "browser_action": {
+      "default_icon" : "ico.png",
+      "default_popup": "index.html"
+    },
+    "icons": {
+      "128" : "ico.png"
+    },
+    "background": {
+      "scripts": ["app.js"]
+    }
+  }
