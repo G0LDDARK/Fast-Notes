@@ -1,14 +1,14 @@
-# Comment utiliser Fast Notes?
+#Fast Notes
+##Instalation
+<p>
+1. Téléchargez et extraire le fichier zip depuis Github ou "git clone https://github.com/G0LDDARK/Fast-Notes.git" <br>
+2. Activez le mode développeur des extensions "chrome://extensions/" <br>
+3. Cliquez sur « Load unpacked » ou « Charger extension non empaquetée » <br>
+4. Choisir le dossier ou se trouve le zip extrait, et voilà! <br>
+</p>
+##Utilisation
+<p>
+Cliquez sur l'icone de l'extention <br>
+</p>
+###09/10/23 Version 2.1
 
-## Installation :
-### Télécharger Fast Notes puis activer le mode développeur des extension dans voter navigateur web.
-### Ensuite cliquer sur  « Load unpacked » ou « Charger extension non empaquetée »
-### Sélectionner le dossier où se situe l’extension puis ouvrir.
-### Et voila l’extension est installée avec succès !!
-
-## Utilisation :
-### Cliquer sur le logo de l’extension le menu apparaît. 
-
-## PS : Fonctionne avec Opera, Opera GX, Chrome, Chromunium et Edge (Pas testé avec firefox)
-
-### La version est 1.0 (16/09/22)

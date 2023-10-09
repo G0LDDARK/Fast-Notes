@@ -1,11 +1,10 @@
 window.onload = function() {
 	var txt = document.getElementById("txt");
 	txt.value = localStorage.getItem("txt");
-
-	var button = document.getElementById("save");
-	button.addEventListener("click", saveData);
-
-	function saveData () {
+	
+	function saveData(){
 		localStorage.setItem("txt", txt.value);
+    	setTimeout(saveData, 500);
 	}
+	saveData();
 }
