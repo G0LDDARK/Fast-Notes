@@ -1,22 +1,24 @@
 {
-    "manifest_version": 2,
-    "name": "Fast Notes",
-    "description": "Prise de note rapide pour navigateur !",
-    "version": "2.1",
-    "permissions": [
+  "manifest_version": 3,
+  "name": "Fast Notes",
+  "description": "Prise de note rapide pour navigateur !",
+  "version": "2.2",
+  "permissions": [
+    "tabs"
+  ],
+  "icons": {
+    "32": "32.png"
+  },
+  "background": {
+    "service_worker": "service_worker.js"
+  },
+  "action": {
+    "default_icon": "32.png",
+    "default_popup": "index.html"
+  },
+  "content_security_policy": {},
+  "host_permissions": [
     "http://*/*",
-    "https://*/*",
-      "tabs"
-    ],
-    "browser_action": {
-      "default_icon" : "32.png",
-      "default_popup": "index.html"
-    },
-    "icons": {
-      "16" : "16.png",
-      "32" : "32.png"
-    },
-    "background": {
-      "scripts": ["app.js"]
-    }
-  }
+    "https://*/*"
+  ]
+}
