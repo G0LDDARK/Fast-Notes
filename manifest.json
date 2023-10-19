@@ -2,23 +2,19 @@
   "manifest_version": 3,
   "name": "Fast Notes",
   "description": "Prise de note rapide pour navigateur !",
-  "version": "2.2",
+  "version": "2.2.2",
   "permissions": [
     "tabs"
   ],
   "icons": {
-    "32": "32.png"
+    "32": "32.png",
+    "128": "128.png"
   },
   "background": {
-    "service_worker": "service_worker.js"
+    "service_worker": "app.js"
   },
   "action": {
     "default_icon": "32.png",
     "default_popup": "index.html"
-  },
-  "content_security_policy": {},
-  "host_permissions": [
-    "http://*/*",
-    "https://*/*"
-  ]
+  }
 }
