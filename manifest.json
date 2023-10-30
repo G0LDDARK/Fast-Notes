@@ -2,10 +2,7 @@
   "manifest_version": 3,
   "name": "Fast Notes",
   "description": "Prise de note rapide pour navigateur !",
-  "version": "2.2.2",
-  "permissions": [
-    "tabs"
-  ],
+  "version": "2.3",
   "icons": {
     "32": "32.png",
     "128": "128.png"

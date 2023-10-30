@@ -1,5 +1,6 @@
 # Fast Notes
 ## Instalation
+### Installation manuelle
 <p>
 1. Téléchargez et extraire le fichier zip depuis Github ou depuis ""<br>
 2. Activez le mode développeur des extensions "chrome://extensions/" <br>
@@ -7,10 +8,15 @@
 4. Choisir le dossier ou se trouve le zip extrait, et voilà! <br>
 </p>
 
+### Intsallation automitique
+<p>
+Installation par le Chrome Web Store : en cours de publication...
+</p>
+
 ## Utilisation
 <p>
 Cliquez sur l'icone de l'extention <br>
 </p>
 
-### 09/10/23 Version 2.2.1
+### 30/10/23 Version 2.3
 
