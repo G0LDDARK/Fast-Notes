@@ -1,7 +1,7 @@
 # Fast Notes
 ## Instalation
 
-### Automitique
+### Automatique
 <p>
 Installation par le Chrome Web Store : https://chrome.google.com/webstore/detail/fast-notes/gaedllkcnakfllaocbfbiebmnpnhonig/related?hl=fr&authuser=1
 </p>
@@ -19,5 +19,5 @@ Installation par le Chrome Web Store : https://chrome.google.com/webstore/detail
 Cliquez sur l'icone de l'extention <br>
 </p>
 
-### 07/11/23 Version 2.4
+### 07/11/23 Version 2.5
 
