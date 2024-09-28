@@ -3,7 +3,7 @@
 
 ### Automatique
 <p>
-Installation par le Chrome Web Store : https://chrome.google.com/webstore/detail/fast-notes/gaedllkcnakfllaocbfbiebmnpnhonig/related?hl=fr&authuser=1
+Installation par le Chrome Web Store : https://chrome.google.com/webstore/detail/fast-notes/gaedllkcnakfllaocbfbiebmnpnhonig/related?hl=fr&authuser=1 // Obsolète
 </p>
 
 ### Manuelle
